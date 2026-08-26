@@ -15,7 +15,7 @@ The readers are in sales, HR, marketing, operations and support. Freelancers, st
 | **Tuesday** | The long one. A single tool, taken apart properly. What existed before it, what it actually does, how five different kinds of people would use it, and the things the marketing page leaves out |
 | **Friday** | The short one. Something new or something moving, in under four hundred words |
 
-[Read it at hustlyst.com](https://hustlyst.com)
+[Read it at hustlyst.com](https://hustlyst.com?ref=github)
 
 ---
 
@@ -52,6 +52,6 @@ All of them are MIT licensed and none of them need a terminal.
 
 ## Elsewhere
 
-- **[hustlyst.com](https://hustlyst.com)** - the newsletter
+- **[hustlyst.com](https://hustlyst.com?ref=github)** - the newsletter
 - **[CS Pulse](https://github.com/CSPulse)** - the sister project, for customer success practitioners
 - Written by **[Anirudh Kumar](https://github.com/theAnirudhKumar)**
