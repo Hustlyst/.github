@@ -44,7 +44,7 @@ That last rule rules out a lot of what is currently loud, on purpose.
 Tools are half of it. The other half is the instructions you give an AI assistant so it does a job properly instead of generically.
 
 - **[meeting-design](https://github.com/theAnirudhKumar/meeting-design)** - design the meeting before you run it. Names the decision, picks the decision rule, cuts the room, and plans for deadlock. Ships fill-in agenda templates
-- **[More skills](https://github.com/theAnirudhKumar/skills)** - email critique, carrying context between chats, keeping long sessions from getting expensive
+- **[work-design](https://github.com/theAnirudhKumar/work-design)** - vetting a tool before you sign up, carrying context from one session into the next, catching an expensive request before it runs
 
 All of them are MIT licensed and none of them need a terminal.
 
