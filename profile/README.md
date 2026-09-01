@@ -2,18 +2,9 @@
 
 **You don't need to be a tech person to work like one.**
 
-Hustlyst is a newsletter about AI and automation tools for people who do not code. Twice a week, one tool at a time, tested before it is written about.
+Hustlyst is a newsletter about AI and automation tools for people who don't code, taken apart properly: does this tool solve a real problem, can you use it without a tutorial, is it worth the money.
 
-The readers are in sales, HR, marketing, operations and support. Freelancers, students, people running their own thing. Not developers. The question is always the same three parts: does this solve a real problem I have, can I use it without a tutorial, and is it worth the money.
-
----
-
-## What gets published
-
-| | |
-| :--- | :--- |
-| **Tuesday** | The long one. A single tool, taken apart properly. What existed before it, what it actually does, how five different kinds of people would use it, and the things the marketing page leaves out |
-| **Friday** | The short one. Something new or something moving, in under four hundred words |
+The readers are in sales, HR, marketing, operations and support. Freelancers, students, people running their own thing. Not developers.
 
 [Read it at hustlyst.com](https://hustlyst.com?ref=github)
 
